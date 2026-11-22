@@ -1,0 +1,4 @@
+<resources><style name="Theme.BookMyTurf" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+<item name="colorPrimary">#5B3FD6</item><item name="colorPrimaryVariant">#39239D</item><item name="colorSecondary">#12B981</item>
+<item name="android:statusBarColor">#101018</item><item name="android:navigationBarColor">#101018</item><item name="android:windowLightStatusBar">false</item>
+</style></resources>
