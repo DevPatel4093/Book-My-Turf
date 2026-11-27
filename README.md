@@ -1,4 +1,4 @@
-# BookMyTurf – Sports Turf Discovery & Tournament Platform
+# BookMyTurf – Sports Turf Discovery & Tournament Platform 🏟️📅⚽🏏🏆
 
 **Discover turfs. Explore tournaments. Get ready to play.**
 
